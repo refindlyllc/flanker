@@ -1,5 +1,5 @@
 import base64
-import regex as re
+import re
 import time
 
 from cryptography.hazmat.backends import default_backend
